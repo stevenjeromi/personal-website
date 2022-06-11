@@ -1,0 +1,231 @@
+.nav-bar{
+    height:125px;
+    width: 100%;
+    background: #5BF711;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px; 
+}
+.logo{
+width: 89px;
+height: 90px;
+left: 54px;
+top: 24px;
+}
+.button{
+    font-weight: 400;
+    font-size: 34px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px 20px;
+     border-radius: 10px;
+     background-color:#000000;
+
+}
+.home{
+    width: 100%;
+    height: 548px;;
+    
+}
+.background{
+    position: relative;
+    text-align: center;
+}
+.centered{
+    position: absolute;
+    top: 45%;
+    left: 33%;
+    color: #5BF611;
+    font-size: 48px;
+    font-style: oblique;
+    font-weight: bolder;
+    font-family:'Times New Roman', Times, serif;
+}
+.about{
+    width: 100%px;
+    height: 538px; 
+    background: #000000;
+}
+.hed{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    color: #5BF611;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 48px;
+    font-weight: bolder;
+}
+.circle{
+    position: absolute;
+    width: 371px;
+    height: 380px;
+    background-color: #5BF611;
+    left: 100px;
+    top: 780px;
+    border-radius: 12rem;
+    background: url(img.png);
+}
+
+
+
+.info{
+    position: absolute;
+    height: 380px;
+    width: 580px;
+    top: 780px;
+    left: 570px;
+    
+    padding: 5px;
+}
+.text{
+    color: #5BF711;
+}
+.det{
+    color: #5BF711
+    
+}
+.skills{
+    width: 100%px;
+    height: 538px; 
+    background: #000000;
+    padding: 3px;
+
+}
+.skl{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    color: #5BF611;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 48px;
+    font-weight: bolder;
+
+}
+.sk{
+    color: #5BF611;
+    position: absolute;
+    left: 50px;
+}
+.bar{
+    position: absolute;
+    left: 30px;
+    width: 40%;
+    height: 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+.level{
+    width: 90%;
+    height: 20px;
+    background-color: #5BF711;
+}
+.levelc{
+    width: 50%;
+    height: 20px;
+    background-color: #5BF711;
+}
+.bar-right{
+    position: absolute;
+    left: 600px;
+    top: 1350px;
+    width: 40%;
+    height: 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+
+}
+.sk-right{
+    color: #5BF611;
+    position: absolute;
+    left: 620px;
+    top: 1300px;
+}
+.levelj{
+    width: 10%;
+    height: 20px;
+    background-color: #5BF711;
+}
+.bar-rightpython{
+    position: absolute;
+    left: 600px;
+    top: 1450px;
+    width: 40%;
+    height: 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+.levelp{
+    width: 70%;
+    height: 20px;
+    background-color: #5BF711;
+}
+.sk-rightpython{
+    color: #5BF611;
+    position: absolute;
+    left: 620px;
+    top: 1400px;
+
+}
+.sk-rightfigma{
+    color: #5BF611;
+    position: absolute;
+    left: 620px;
+    top: 1500px;
+}
+.bar-rightfigma{
+    position: absolute;
+    left: 600px;
+    top: 1540px;
+    width: 40%;
+    height: 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+.contact{
+    width: 100%;
+    height: 170px;
+    background-color: #5BF611;
+    
+}
+.con{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 48px;
+    font-weight: bolder;
+}
+.insta{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    left: 630px;
+    top: 1830px;
+
+
+}
+.git{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    left: 500px;
+    top: 1830px;
+
+}
+.fb{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    left: 540px;
+    top: 1830px;
+
+}
+.email{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    left: 580px;
+    top: 1830px;
+
+}
